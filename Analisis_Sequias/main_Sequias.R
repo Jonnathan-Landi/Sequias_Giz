@@ -2,6 +2,9 @@
 #   Análisis Integral de la Recurrencia y Respuesta Espacial de las Sequías    #
 #        Meteorológicas e Hidrológicas en la Región de Cuenca, Ecuador         #
 ################################################################################
+#' Repositorio en GitHub: https://github.com/Jonnathan-Landi/Sequias_Giz
+#' Versión: 1.5.1
+################################################################################
 library(this.path)
 dircs = this.path()
 dir_Base = dirname(dircs)
